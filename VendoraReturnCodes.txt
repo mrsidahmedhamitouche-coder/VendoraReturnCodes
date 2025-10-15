@@ -1,0 +1,10 @@
+Vendora Installer Return Codes (Inno Setup default):
+
+0       Installation successful
+1       Network failure (generic)
+3       Installation cancelled by user
+1603    Application already exists / Fatal error during install
+1618    Installation already in progress
+112     Disk space is full
+3010    Reboot required
+1605    Package rejected due to security policy
